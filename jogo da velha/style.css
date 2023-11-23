@@ -3,6 +3,11 @@ body{
     padding: 0;
 }
 
+h1{
+    text-align: center;
+    text-decoration: underline;
+
+}
 /* codigo para deixar os quadrados em formatos de jogo da velha e deixar no centro*/
 #main{
     display: grid;
